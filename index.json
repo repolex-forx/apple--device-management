@@ -1,0 +1,11 @@
+{
+  "org": "apple",
+  "repo": "device-management",
+  "versions": [
+    {
+      "commit": "9e7fdbe23990b2551c4b29b39bc8b0de956805eb",
+      "tag": "",
+      "parsed_at": "2026-11-09T15:26:52.252592+00:00"
+    }
+  ]
+}
