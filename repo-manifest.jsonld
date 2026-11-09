@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/apple/device-management/commit/9e7fdbe23990b2551c4b29b39bc8b0de956805eb",
       "git:hexsha": "9e7fdbe23990b2551c4b29b39bc8b0de956805eb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T15:26:52.252217+00:00"
     }
   ]
 }
